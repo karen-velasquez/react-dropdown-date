@@ -15,7 +15,7 @@
     "main": "dist/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ssxv/react-dropdown-date.git"
+        "url": "https://github.com/karen-velasquez/react-dropdown-date.git"
     },
     "author": "Satyendra Singh <satyendra1529singh@gmail.com>",
     "peerDependencies": {
@@ -42,7 +42,7 @@
         "dist"
     ],
     "bugs": {
-        "url": "https://github.com/ssxv/react-dropdown-date/issues"
+        "url": "https://github.com/karen-velasquez/react-dropdown-date/issues"
     },
-    "homepage": "https://github.com/ssxv/react-dropdown-date"
+    "homepage": "https://github.com/karen-velasquez/react-dropdown-date"
 }
